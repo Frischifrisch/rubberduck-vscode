@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@rubberduck/common": "*",
-    "axios": "1.2.4",
+    "axios": "1.6.0",
     "handlebars": "^4.7.7",
     "marked": "4.2.12",
     "secure-json-parse": "2.7.0",
